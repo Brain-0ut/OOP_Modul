@@ -1,0 +1,6 @@
+Alexiy: 21
+Alex: 20
+Petya: 15
+Alex: 15
+Masha: 12
+Vasya: 10
